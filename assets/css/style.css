@@ -1,0 +1,67 @@
+.container-fluid {
+  background-color: #F78E69;
+  padding: 5%;
+  width: 100%;
+}
+
+.img1{
+  background-image: url(../imagenes/uno.jpg);
+  padding: 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.img2{
+  background-image: url(../imagenes/tres.jpg);
+  padding: 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.section {
+  background-color: #F78E69;
+  padding: 1%;
+}
+
+.section2 {
+  background-color: #F78E69;
+  padding: 1%;
+}
+
+.section3 {
+  background-color: #F78E69;
+  padding: 1%;
+}
+
+h1 {
+  text-align: right;
+  color: white;
+}
+
+p {
+  text-align: right;
+  color: white;
+}
+
+.col-sm {
+  text-align: center;
+  color: white;
+  margin: 20px;
+}
+
+#text {
+  background-color: #F78E69;
+  font-size: 15px;
+  margin: 15px;
+  text-align: center;
+
+}
+
+.row{
+  background-color: rgb(125, 219, 125);
+}
+
+.picture {
+  border: 5px white;
+}
+
